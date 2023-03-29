@@ -3,6 +3,7 @@ import Table from './componets/ui/Table';
 
 const App = () => {
   return (
+    
     <Table/>
   );
 }
