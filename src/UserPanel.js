@@ -1,4 +1,4 @@
-import Header from './componets/ui/Header';
+import Header from './componets/Header/Header';
 
 
 const App = () => {

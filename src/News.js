@@ -1,10 +1,9 @@
-import Header from './componets/ui/Header';
-import Table from './componets/ui/Table';
+import Header from './componets/Header/Header.js';
+
 
 const App = () => {
   return (
-    
-    <Table/>
+    <Header/>
   );
 }
 
